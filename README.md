@@ -75,6 +75,3 @@
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=salievyt&theme=tokyonight" alt="salievyt" />
 <br />
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=salievyt)](https://github.com/salievyt/github-profile-trophy)
-
