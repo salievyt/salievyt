@@ -1,15 +1,6 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome my profile! </h2>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
@@ -50,17 +41,16 @@
 </div>  
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=salievyt&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=salievyt&&style=flat-square" align="center" />
-</div>  
 
+<a href="https://github.com/salievyt/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salievyt&layout=compact&theme=tokyonight" /></a>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=salievyt&theme=tokyonight" alt="salievyt" />
 <br />
 
 
