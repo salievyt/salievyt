@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome my profile! </h2>
 
 
 - 🔭 I’m currently working on ...
@@ -10,20 +10,59 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=My+skills;I'm+full+stack+developer+and+junior+ux+designer+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+💻 Mobile Developer • Platform Engineer
+📱 Android (Kotlin, Android Studio, CameraX)
+🤖 Telegram & Discord Bot Developer (Python, AIOgram, AI integrations)
+🛠 System Programming • Automation • Monitoring • Security Tools
+⚙️ DevOps basics • CI/CD • Deploy pipelines
+🌐 Software Architecture • Distributed Systems
+📦 Plugin developer (Java/Kotlin) • Server-side logic & configs
+🎮 Minecraft Infrastructure: permissions, regions, UI/UX menus, holograms, mechanics, world systems, spawns, wipes, game modes
+🗃 Working with configs: YAML, JSON, localization, message templates
+🧰 Experience with NFC modules, hardware interactions & Arduino logic
+📊 Logging systems • Command tracking • System events
+🎨 Creative side: design, aesthetics, video previews, shaders, visuals
+🎧 Music • Games • Anime • Coding nights • Fun chaos energy
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+</div>
+
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=salievyt&show_icons=true&count_private=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=salievyt&&style=flat-square" align="center" />
+</div>  
+
+<br />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=salievyt)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-**salievyt/salievyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
