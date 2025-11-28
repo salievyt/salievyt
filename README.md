@@ -76,5 +76,5 @@
 <br />
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=salievyt)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=salievyt)](https://github.com/salievyt/github-profile-trophy)
 
