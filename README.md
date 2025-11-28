@@ -7,19 +7,19 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=My+skills;I'm+full+stack+developer+and+junior+ux+designer+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
-💻 Mobile Developer • Platform Engineer
-📱 Android (Kotlin, Android Studio, CameraX)
-🤖 Telegram & Discord Bot Developer (Python, AIOgram, AI integrations)
-🛠 System Programming • Automation • Monitoring • Security Tools
-⚙️ DevOps basics • CI/CD • Deploy pipelines
-🌐 Software Architecture • Distributed Systems
-📦 Plugin developer (Java/Kotlin) • Server-side logic & configs
-🎮 Minecraft Infrastructure: permissions, regions, UI/UX menus, holograms, mechanics, world systems, spawns, wipes, game modes
-🗃 Working with configs: YAML, JSON, localization, message templates
-🧰 Experience with NFC modules, hardware interactions & Arduino logic
-📊 Logging systems • Command tracking • System events
-🎨 Creative side: design, aesthetics, video previews, shaders, visuals
-🎧 Music • Games • Anime • Coding nights • Fun chaos energy
+ Mobile Developer • Platform Engineer
+ Android (Kotlin, Android Studio, CameraX)
+ Telegram & Discord Bot Developer (Python, AIOgram, AI integrations)
+ System Programming • Automation • Monitoring • Security Tools
+ DevOps basics • CI/CD • Deploy pipelines
+ Software Architecture • Distributed Systems
+ Plugin developer (Java/Kotlin) • Server-side logic & configs
+ Minecraft Infrastructure: permissions, UI/UX menus, mechanics, world systems
+ Working with configs: YAML, JSON, localization, message templates
+ Experience with NFC modules, hardware interactions & Arduino logic
+ Logging systems • Command tracking • System events
+ Creative side: design, aesthetics, video previews, shaders, visuals
+ Music • Games • Anime • Coding nights • Fun chaos energy
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
