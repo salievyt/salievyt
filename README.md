@@ -46,7 +46,7 @@
 
 ## 🐍 Contribution Snake 
 
-<p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/salievyt/salievyt/output/github-contribution-grid-snake.svg" /> </p>
 
 ## My skills
 
