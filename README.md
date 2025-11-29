@@ -71,7 +71,7 @@
 <br/>  
 
 
-<a href="https://github.com/salievyt/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salievyt&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/saliev/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saliev&layout=compact&theme=tokyonight" /></a>
 <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=salievyt&theme=tokyonight" alt="salievyt" />
 <br />
 
