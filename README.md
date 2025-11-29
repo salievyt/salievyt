@@ -63,5 +63,6 @@
 ## Github Stats  
 <br/>
 <a href="https://github.com/salievyt/github-readme-stats"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salievyt&layout=compact&theme=tokyonight" /></a>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=salievyt&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salievyt&layout=donut&theme=tokyonight" height="180"/> </div> 
 <br />
 
