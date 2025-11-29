@@ -43,6 +43,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 
+
+## 🐍 Contribution Snake 
+
+<p align="center"> <img src="https://raw.githubusercontent.com/arnursultan/arnursultan/output/github-contribution-grid-snake.svg" /> </p>
+
 ## My skills
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
