@@ -23,6 +23,7 @@
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+ 
 <br><br><br>
     
 <div align="center">
@@ -65,6 +66,8 @@
 ## Github Stats  
 <br/>
 <a href="https://github.com/salievyt/github-readme-stats"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salievyt&layout=compact&theme=tokyonight" /></a>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=salievyt&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salievyt&layout=donut&theme=tokyonight" height="180"/> </div> 
 <br />
 
+<br><br>
+<img src="https://i.pinimg.com/1200x/a1/e6/c9/a1e6c95ec9740a34f94a455a42747dc4.jpg" height="90%" align="center"/>
+<br/><br/>
