@@ -64,11 +64,6 @@
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 
-## Github Stats  
-<br/>
-<a href="https://github.com/salievyt/github-readme-stats"><img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salievyt&layout=compact&theme=tokyonight" /></a>
-<br />
-
 <br><br>
 <img src="https://i.pinimg.com/1200x/a1/e6/c9/a1e6c95ec9740a34f94a455a42747dc4.jpg" height="90%" align="center"/>
 <br/><br/>
