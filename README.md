@@ -14,7 +14,6 @@
  DevOps basics • CI/CD • Deploy pipelines
  Software Architecture • Distributed Systems
  Plugin developer (Java/Kotlin) • Server-side logic & configs
- Minecraft Infrastructure: permissions, UI/UX menus, mechanics, world systems
  Working with configs: YAML, JSON, localization, message templates
  Experience with NFC modules, hardware interactions & Arduino logic
  Logging systems • Command tracking • System events
