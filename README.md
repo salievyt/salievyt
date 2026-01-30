@@ -29,7 +29,7 @@
 <a href="https://github.com/salievyt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/Idle0ne_dev" target="_blank">
+<a href="https://t.me/bc_sm1le" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/salievyt" target="_blank">
