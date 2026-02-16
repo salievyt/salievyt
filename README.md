@@ -8,7 +8,7 @@
 <br><br>
 <pre>
  Mobile Developer • Platform Engineer
- Android (Kotlin, Android Studio, CameraX)
+ Android (Kotlin, Android Studio, Flutter)
  Telegram & Discord Bot Developer (Python, AIOgram, AI integrations)
  System Programming • Automation • Monitoring • Security Tools
  DevOps basics • CI/CD • Deploy pipelines
